@@ -91,7 +91,7 @@ model.load_state_dict(torch.load("models/mnist_cnn.pth"))
 
 ## 🙌 Acknowledgments
 
-- [Udacity – Introduction to Deep Learning](https://www.udacity.com/course/intro-to-deep-learning-with-pytorch--ud188)  
+- Udacity – Introduction to Deep Learning
 - [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)  
 - MNIST dataset by Yann LeCun et al.  
 
